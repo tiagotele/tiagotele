@@ -33,8 +33,8 @@ A little about me:
 
 
 ### 🎤 Talks
-[ [PT-BR] MLOps garantindo entrega contínua a projetos de Machine Learning](https://www.youtube.com/watch?v=3uwiakYbf9M)  
-[ [PT-BR] Carreiras na área de dados: atribuições e cargos em times de análise de informação.](https://www.youtube.com/watch?v=VI4nMqfbmuM)
+- [ [PT-BR] MLOps garantindo entrega contínua a projetos de Machine Learning](https://www.youtube.com/watch?v=3uwiakYbf9M)  
+- [ [PT-BR] Carreiras na área de dados: atribuições e cargos em times de análise de informação.](https://www.youtube.com/watch?v=VI4nMqfbmuM)
 
 <hr>
 
