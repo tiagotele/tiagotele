@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Tiago Melo!
 
-Here are some ideas to get you started:
+A little about me:
 
 - 🔭 I’m currently working on [Stone Co](https://www.stone.co/)
 - 🌱 I’m currently working and learning with Data Engenieering
