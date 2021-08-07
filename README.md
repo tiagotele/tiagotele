@@ -39,5 +39,5 @@ A little about me:
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-melo-615753a/)](https://www.linkedin.com/in/tiago-melo-615753a/)
-[![Gmail Badge](	https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=tiagotele@gmail.com)](tiagotele@gmail.com)
+
 
