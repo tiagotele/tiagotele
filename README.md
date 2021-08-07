@@ -4,7 +4,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Stone Co](https://www.stone.co/)
 - 🌱 I’m currently working and learning with Data Engenieering
-- ⚡ Fun fact: Music keyboard player on free time 🎹🎹🎹
+- ⚡ Fun fact: 
+  - Music keyboard player on free time 🎹🎹🎹
+  - I love gym 🏋️‍♂️ , even if doesn't seems like...
 
 ### 💻 Languages: 
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
@@ -29,17 +31,13 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?&logo=gnu%20bash&logoColor=FFFFFF)
 
+
+### 🎤 Talks
+[ [PT-BR] MLOps garantindo entrega contínua a projetos de Machine Learning](https://www.youtube.com/watch?v=3uwiakYbf9M)  
+[ [PT-BR] Carreiras na área de dados: atribuições e cargos em times de análise de informação.](https://www.youtube.com/watch?v=VI4nMqfbmuM)
+
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-melo-615753a/)](https://www.linkedin.com/in/tiago-melo-615753a/)
- [![Gmail Badge](	https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=tiagotele@gmail.com)](tiagotele@gmail.com)
-<!--
-**tiagotele/tiagotele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](	https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=tiagotele@gmail.com)](tiagotele@gmail.com)
 
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
