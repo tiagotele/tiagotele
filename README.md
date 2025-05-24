@@ -2,7 +2,7 @@
 
 A little about me:
 
-- 🔭 I’m currently working on [Stone Co](https://www.stone.co/)
+- 🔭 I’m currently working on [Caylent]([https://www.stone.co/](https://caylent.com/)
 - 🌱 I’m currently working and learning with Data Engenieering
 - ⚡ Fun fact: 
   - Music keyboard player on free time 🎹🎹🎹
